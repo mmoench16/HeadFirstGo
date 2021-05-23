@@ -1,4 +1,4 @@
-# Head First Go - Notes - Chapter 3
+# Head First Go - Notes - Chapter 4
 
 ## Note 1
 
